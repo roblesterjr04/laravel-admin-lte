@@ -2,7 +2,7 @@
 
 namespace Lester\AdminLTE\Providers;
 
-use Atnic\AdminLTE\Console\Commands\AdminLTEMakeCommand;
+use Lester\AdminLTE\Console\Commands\AdminLTEMakeCommand;
 use Illuminate\Support\ServiceProvider;
 
 /**
