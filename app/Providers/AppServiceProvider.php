@@ -1,6 +1,6 @@
 <?php
 
-namespace Atnic\AdminLTE\Providers;
+namespace Lester\AdminLTE\Providers;
 
 use Atnic\AdminLTE\Console\Commands\AdminLTEMakeCommand;
 use Illuminate\Support\ServiceProvider;

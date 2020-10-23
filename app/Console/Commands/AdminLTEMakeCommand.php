@@ -1,6 +1,6 @@
 <?php
 
-namespace Atnic\AdminLTE\Console\Commands;
+namespace Lester\AdminLTE\Console\Commands;
 
 use Illuminate\Console\Command;
 
